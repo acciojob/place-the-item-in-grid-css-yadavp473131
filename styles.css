@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+.hoder{
+	display:grid;
+	width: 200px;
+	grid-template-columns: repeat(2,100px);
+	grid-template-rows: repeat(2,100px);
+}
