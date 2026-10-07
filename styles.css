@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.hoder{
+.holder{
 	display:grid;
 	width: 200px;
 	grid-template-columns: repeat(2,100px);
